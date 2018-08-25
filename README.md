@@ -19,3 +19,8 @@ Thundering-Dynamo is a mini-game of Pokemon Stadium, that is a strategy video ga
 
 
 ![image_2018-08-24_13-36-01](https://user-images.githubusercontent.com/12816073/44620832-b5d1da80-a871-11e8-84ea-ab352a6cf82c.png)
+
+
+In brazilian portuguese we don't say "quick fix" we say "gambiarra" and i think that's beutiful
+
+![image_2018-08-25_14-23-44](https://user-images.githubusercontent.com/12816073/44620878-866f9d80-a872-11e8-9e63-72ad0111cbbf.png)
