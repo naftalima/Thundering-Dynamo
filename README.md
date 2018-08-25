@@ -15,4 +15,7 @@ Thundering-Dynamo is a mini-game of Pokemon Stadium, that is a strategy video ga
 
 ![image_2018-08-24_13-35-02](https://user-images.githubusercontent.com/12816073/44620831-b10d2680-a871-11e8-9928-8ba742512b39.png)
 
+![image_2018-08-25_14-20-25](https://user-images.githubusercontent.com/12816073/44620861-27aa2400-a872-11e8-97a9-1a22e7511719.png)
+
+
 ![image_2018-08-24_13-36-01](https://user-images.githubusercontent.com/12816073/44620832-b5d1da80-a871-11e8-84ea-ab352a6cf82c.png)
